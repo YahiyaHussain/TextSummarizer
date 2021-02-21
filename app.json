@@ -1,0 +1,12 @@
+{
+  "name": "Summarizer",
+  "displayName": "Summarizer",
+  "expo": {
+    "name": "Summarizer",
+    "slug": "Summarizer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
