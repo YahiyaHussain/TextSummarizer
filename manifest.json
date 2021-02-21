@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "Summarizer",
+  "short_name": "Summarizer",
+  "start_url": "/?utm_source=web_app_manifest"
+}
