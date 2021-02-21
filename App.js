@@ -50,7 +50,7 @@ export default function App() {
       <Button title={"Press me to summarize inputted text"} style={{width: 400, height: 500}}onPress={
         () => {
           onChangePrediction("loading...")
-          var url = "https://9ex6ute2e1.execute-api.us-east-1.amazonaws.com/summarizer";
+          var url = "https://ipczl1r729.execute-api.us-east-1.amazonaws.com/summarizer";
 
           var xhr = new XMLHttpRequest();
           xhr.open("POST", url);
