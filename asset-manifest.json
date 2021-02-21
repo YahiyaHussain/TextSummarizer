@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/TextSummarizer/static/js/app.de097f7c.chunk.js",
-    "app.js.map": "/TextSummarizer/static/js/app.de097f7c.chunk.js.map",
+    "app.js": "/TextSummarizer/static/js/app.8626961a.chunk.js",
+    "app.js.map": "/TextSummarizer/static/js/app.8626961a.chunk.js.map",
     "runtime~app.js": "/TextSummarizer/static/js/runtime~app.381c07dd.js",
     "runtime~app.js.map": "/TextSummarizer/static/js/runtime~app.381c07dd.js.map",
     "static/js/2.b1acfefe.chunk.js": "/TextSummarizer/static/js/2.b1acfefe.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime~app.381c07dd.js",
     "static/js/2.b1acfefe.chunk.js",
-    "static/js/app.de097f7c.chunk.js"
+    "static/js/app.8626961a.chunk.js"
   ]
 }
